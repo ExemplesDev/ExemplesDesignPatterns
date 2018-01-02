@@ -1,4 +1,4 @@
-# Code C++ et Python "Exemples de Design Patterns" 
+# Exemples de Design Patterns
 
 ## Objectifs
 
@@ -9,10 +9,6 @@ Ils sont tirés d'exemples trouvés sur internet,:
 ** Cours Design Pattern https://www.irif.fr/~yunes/cours/cpp/fiches/2017/125-DesignPatterns.pdf
 ** Lien YouTube: https://www.youtube.com/watch?v=C50geRSrLUo
 * Martin Fowler: Refactoring: Improving the Design of Existing Code http://jaoo.dk/jaoo1999/schedule/MartinFowlerRefractoring.pdf
-
-
-* Factory
-
 
 
 ## Pre-requis
